@@ -17,5 +17,10 @@ A sleek, responsive, and theme-switchable stopwatch web application built with *
 - 🎯 Easy to Customize
 
 ---
+## 🛠 Built With
 
-## 📂 Project Structure
+HTML5          → Structure of the application  
+CSS3           → Styling, layout, themes (light/dark)  
+JavaScript     → Stopwatch logic and theme switching  
+Netlify        → Deployment and hosting
+
